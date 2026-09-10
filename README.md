@@ -4,7 +4,8 @@ A Python script that generates a vibrant, multi-colored visualization of the
 **Mandelbrot set** — one of the most famous fractals in mathematics — using
 only `numpy` and `matplotlib`.
 
-![Mandelbrot Set Preview](mandelbrot.png)
+![Mandelbrot Set Preview](<img width="1600" height="1600" alt="mandelbrot" src="https://github.com/user-attachments/assets/d7dba2d0-64f1-4b62-b866-1bc75ebd0ff3" />
+)
 
 ## The Beauty of the Mandelbrot Set
 
@@ -133,7 +134,7 @@ div_time = mandelbrot(size, -0.8, -0.7, 0.05, 0.15, max_iter=500)
 
 ## Author
 
-- **Name:** _<your name>_
+- **Name:** _<TATHEER AIMA NAQVI>_
 - **Course:** BS (Computer Science) — Design Lab 01: Designing Using Fractals
 
 ## License
